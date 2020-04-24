@@ -1,7 +1,7 @@
 void main() {
   /// there is some tasks that i need you to work on.
   /// 1- just print to the console this word "Hello World" .
-  /// 2- just print to the console this world "it's okay" .
+  /// 2- just print to the console this word "it's okay" .
   /// 3- how to write a comment ? write this as a comment :  "this is the main number " .
   /// 4- print the sum of 2 and 3 .
   /// 5- what is the difference between "var" and "int" ? .
